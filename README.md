@@ -1,4 +1,4 @@
-# Implementation-of-Hyena-Architecture-for-Transfromers
+# Implementation-of-Hyena-Architecture-for-Transformers
 
 #### **Objective**
 
