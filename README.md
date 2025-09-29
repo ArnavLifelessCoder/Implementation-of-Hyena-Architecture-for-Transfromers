@@ -1,11 +1,5 @@
 # Implementation-of-Hyena-Architecture-for-Transfromers
 
-Of course. Here is a more formal project description suitable for a portfolio, resume, or GitHub README.
-
-***
-
-### **Project Title: A From-Scratch Implementation of the Hyena Architecture**
-
 #### **Objective**
 
 This project provides a deep, first-principles implementation of the **"Hyena Hierarchy" architecture**, a state-of-the-art sequence model that replaces the quadratic self-attention mechanism of Transformers. The primary goal is to demystify its core components by first building the entire forward pass from the ground up using NumPy, and then creating a practical, trainable version in PyTorch.
